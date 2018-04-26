@@ -1,0 +1,2 @@
+time	score	population	generation	end turn	cross over probability	cross over type	mutation probability	mutation type	initial type
+10943	5010188	200	102	100	60	3	90	0	1
